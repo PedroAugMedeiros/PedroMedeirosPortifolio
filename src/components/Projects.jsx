@@ -76,7 +76,7 @@ function App() {
           <img src={GithubIcon} className='fotosContato'>
           </img>
           </a>
-          <a href='https://pedroaugmed7@gmail.com'   target="_blank" rel="noreferrer">
+          <a href="mailto:pedroaugmed7@gmail.com"   target="_blank" rel="noreferrer">
           <img src={GmailIcon} className='fotosContato'>
           </img>
           </a>
@@ -91,7 +91,7 @@ function App() {
           <img src={GithubIcon} className='IconFooter'>
           </img>
           </a>
-          <a href='https://pedroaugmed7@gmail.com'   target="_blank" rel="noreferrer">
+          <a href="mailto:pedroaugmed7@gmail.com"   target="_blank" rel="noreferrer">
           <img src={GmailIcon} className='IconFooter'>
           </img>
           </a>
