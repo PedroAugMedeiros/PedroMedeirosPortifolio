@@ -9,11 +9,13 @@ Meu Portifolio
 
 ## Link Deploy : 
 
+### https://pedro-medeiros-portifolio.herokuapp.com
+
 ## Download :
 
-### `git clone` git@github.com:PedroAugMedeiros/StarWarsPlanets.git
+### `git clone` git@github.com:PedroAugMedeiros/PedroMedeirosPortifolio.git
 
-## Para rodar localmente : https://pedro-medeiros-portifolio.herokuapp.com
+## Para rodar localmente : 
 
 ### `npm install`
 ### `npm start`
